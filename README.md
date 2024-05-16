@@ -9,9 +9,9 @@
 3.21 Отчеты о дефекте для регистрации, логина и каталога
 
 [Экспортированные отчеты о дефекте](https://artsiomrusau.youtrack.cloud/issue/FTT-557/Testing-Documentation-Aleksei-Nekhaev)
+
 [Aleksei Nekhaev Issues.xlsx](https://github.com/armjex/docs/files/15329030/Aleksei.Nekhaev.Issues.xlsx)
 
 [Тестовый прогон](https://app.qase.io/run/G7/dashboard/120)
+
 [Aleksei Nekhaev QASE G7-Express+run+2024_05_12.pdf](https://github.com/armjex/docs/files/15329023/Aleksei.Nekhaev.G7-Express%2Brun%2B2024_05_12.pdf)
-
-
